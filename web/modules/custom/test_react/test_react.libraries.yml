@@ -1,0 +1,15 @@
+hello:
+  version: 1.x
+  js:
+    js/react/hello/dist/app.bundle.js: { minified: true }
+icon3d:
+  version: 1.x
+  js:
+    js/react/icon3d/dist/app.bundle.js: { minified: true }
+cards:
+  version: 1.x
+  js:
+    js/react/cards/dist/app.bundle.js: { minified: true }
+  css:
+    theme:
+      css/cards.css: { }
